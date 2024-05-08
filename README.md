@@ -35,6 +35,9 @@ Password = bitnami
 ## 5) Antes pide seleccion de tipo, estudiante o maestro
 ## 6) Ir creando los usuarios, como se muestra acontinuacion. El username debe ser en minusculas y la contraseña debe contener minimo 8 caracteres, numeros y un caracter especial
 
+![(imgs/5.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/a852ca1bb8afb84672dcbc1d5cba189fd143ac61/imgs/5.jpeg)
+
+![(imgs/7.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/a852ca1bb8afb84672dcbc1d5cba189fd143ac61/imgs/7.jpeg)
 
 ## 7) Para iniciar sesion usamos el nombre de usuario que se habia creado asi como la contraseña que se creo
 
