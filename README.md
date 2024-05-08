@@ -41,3 +41,4 @@ Password = bitnami
 
 ## 7) Para iniciar sesion usamos el nombre de usuario que se habia creado asi como la contraseña que se creo
 
+![(imgs/9.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/5ff6d8653748fd3ff97868326d83bf0946747d0a/imgs/9.jpeg)
