@@ -1,5 +1,5 @@
 # LMS-MoodleDocker
-Archivo de lo que se realizo en la clase con la mac
+Archivo con los pasos de lo que se realizo en la clase con la mac
 
 ## Para clonar el repositorio desde el sitio oficial se puede usar el siguiente comando:
 git clone -b MOODLE_310_STABLE git://git.moodle.org/moodle.git
@@ -20,5 +20,12 @@ docker compose stop
 user = user 
 Password = bitnami
 
-### Crear el curso 1
-### Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
+## Crear el curso 1
+## Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
+
+## Ir a la pestaña de administracion del sitio e ir a "add a new user"
+## Antes pide seleccion de tipo, estudiante o maestro
+## Ir creando los usuarios, como se muestra acontinuacion. El username debe ser en minusculas y la contraseña debe contener minimo 8 caracteres, numeros y un caracter especial
+
+
+## Para iniciar sesion usamos el nombre de usuario que se habia creado asi como la contraseña que se creo
