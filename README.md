@@ -12,8 +12,8 @@ Caballero Viera Ayrton Enrique (Presenta en este GitHub el README y lo solicitad
 ## Para clonar el repositorio desde el sitio oficial se puede usar el siguiente comando:
 git clone -b MOODLE_310_STABLE git://git.moodle.org/moodle.git
 
-## Instalar Docker compose de LMS - Moodle
-Usar el comando
+## Instalar Docker compose de LMS - Moodle, Usar el comando
+
 curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker-compose.yml
 
 ## Para levantar el docker compose usar el comando
@@ -26,6 +26,7 @@ docker compose stop
 
 ## 1) Entrar a localhost con las siguientes credenciales
 user = user 
+
 Password = bitnami
 
 ![(imgs/2.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/026e8b2351c43a413b03652ae95c115e9b1f9010/imgs/2.png)
