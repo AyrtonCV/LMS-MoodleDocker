@@ -29,3 +29,5 @@ Password = bitnami
 
 
 ## 7) Para iniciar sesion usamos el nombre de usuario que se habia creado asi como la contraseña que se creo
+
+aaaaaaaaaaaaaa
