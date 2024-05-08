@@ -23,6 +23,9 @@ Password = bitnami
 ![(imgs/2.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/026e8b2351c43a413b03652ae95c115e9b1f9010/imgs/2.png)
 
 ## 2) Crear el curso 1
+
+![imgs/4.jpeg] (https://github.com/AyrtonCV/LMS-MoodleDocker/blob/73f372d23e9a79727bcf8cae96df7feb4f4bac30/imgs/WhatsApp%20Image%202024-05-08%20at%2011.33.18%20AM%20(1).jpeg)
+
 ## 3) Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
 
 ## 4) Ir a la pestaña de administracion del sitio e ir a "add a new user"
