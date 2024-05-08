@@ -1,4 +1,5 @@
 # LMS-MoodleDocker
+Archivo de lo que se realizo en la clase con la mac
 
 ## Para clonar el repositorio desde el sitio oficial se puede usar el siguiente comando:
 git clone -b MOODLE_310_STABLE git://git.moodle.org/moodle.git
@@ -19,3 +20,5 @@ docker compose stop
 user = user 
 Password = bitnami
 
+### Crear el curso 1
+### Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
