@@ -24,7 +24,7 @@ Password = bitnami
 
 ## 2) Crear el curso 1
 
-![(imgs/4.jpeg)] (https://github.com/AyrtonCV/LMS-MoodleDocker/blob/73f372d23e9a79727bcf8cae96df7feb4f4bac30/imgs/WhatsApp%20Image%202024-05-08%20at%2011.33.18%20AM%20(1).jpeg)
+![(imgs/4.jpeg)] (https://github.com/AyrtonCV/LMS-MoodleDocker/blob/6798c87a7ec2f28e5a56d65d555ce1d53115a4b2/imgs/4.jpeg)
 
 ## 3) Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
 
