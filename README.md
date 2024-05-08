@@ -20,7 +20,7 @@ docker compose stop
 user = user 
 Password = bitnami
 
-![(imgs/2.jpeg)](hhttps://github.com/AyrtonCV/LMS-MoodleDocker/blob/026e8b2351c43a413b03652ae95c115e9b1f9010/imgs/2.png)
+![(imgs/2.png)](hhttps://github.com/AyrtonCV/LMS-MoodleDocker/blob/026e8b2351c43a413b03652ae95c115e9b1f9010/imgs/2.png)
 
 ## 2) Crear el curso 1
 ## 3) Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
