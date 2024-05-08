@@ -29,6 +29,9 @@ Password = bitnami
 ## 3) Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
 
 ## 4) Ir a la pestaña de administracion del sitio e ir a "add a new user"
+
+![(imgs/3.png)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/7a210bd997d9ac4a0f4f5d403410aea6b4121169/imgs/3.png)
+
 ## 5) Antes pide seleccion de tipo, estudiante o maestro
 ## 6) Ir creando los usuarios, como se muestra acontinuacion. El username debe ser en minusculas y la contraseña debe contener minimo 8 caracteres, numeros y un caracter especial
 
