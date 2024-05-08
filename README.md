@@ -20,7 +20,7 @@ docker compose stop
 user = user 
 Password = bitnami
 
-
+![imgs/2.jpeg] 
 
 ## 2) Crear el curso 1
 ## 3) Crear el curso con el nombre que se seleccione asi como las fechas y datos que se muestren
