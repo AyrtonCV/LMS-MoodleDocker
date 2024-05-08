@@ -11,7 +11,7 @@ curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/mood
 ## Para levantar el docker compose usar el comando
 docker-compose up -d
 
-(imgs/1.jpeg)
+![(imgs/1.jpeg)](https://github.com/AyrtonCV/LMS-MoodleDocker/blob/55a3f1574b154e51b92f87dcec29385e09cb8210/imgs/1.jpeg)
 
 ## Si se necesita detener el contenedor usar
 docker compose stop
@@ -30,4 +30,3 @@ Password = bitnami
 
 ## 7) Para iniciar sesion usamos el nombre de usuario que se habia creado asi como la contraseña que se creo
 
-aaaaaaaaaaaaaa
