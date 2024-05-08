@@ -1,8 +1,12 @@
 # LMS-MoodleDocker
 Archivo con los pasos de lo que se realizo en la clase con la mac
+
 Integrantes:
-Caaml Ku Laura Guadalupe
+
+Caamal Ku Laura Guadalupe
+
 Canto Medina Rogelio Andres
+
 Caballero Viera Ayrton Enrique (Presenta en este GitHub el README y lo solicitado)
 
 ## Para clonar el repositorio desde el sitio oficial se puede usar el siguiente comando:
