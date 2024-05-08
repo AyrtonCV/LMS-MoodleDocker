@@ -50,5 +50,7 @@ Password = bitnami
 Conclusiones por cada integrante:
 
 Rogelio: En esta actividad no tuvimos complicaciones debido a que ya habiamos realizado la practica anteriormente en equipo pero en nuestra propia maquina, el docker levanta los servicios de Moodle y configura el uso de volumenes lo cual lo hace sencillo
+
 Laura: Esta practica fue sencilla el uso de docker y el comando nos ahorro mucho la practica asi como el levantamiento para el moodle sin olvidar que el propio Moodle es facil de entender una vez en el localHost debido a su intuitiva interfaz
+
 Ayrton: En el ejercicio pudimos realizar algo visto anteriormente en otra actividad donde en este caso lo senti algo mas sencillo, la parte de crear usuarios es donde si se debe tener mucho cuidado debido a parte de sus propias reglas que establece como minusculas o caracteres especiales
